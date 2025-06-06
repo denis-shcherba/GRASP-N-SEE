@@ -1,0 +1,8 @@
+__pycache__/
+z.*
+*.egg-info
+*.npy
+.obsidian/
+*.h5
+.log
+outputs/
