@@ -6,3 +6,4 @@ z.*
 *.h5
 .log
 outputs/
+checkpoints/
